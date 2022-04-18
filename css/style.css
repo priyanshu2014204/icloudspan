@@ -1,0 +1,12 @@
+div{background-color: #97DBAE;}
+body{margin:0;}
+h1{margin-top: 0;}
+.container{height: 200px;
+width: 200px;
+}
+.second{background-color: red;}
+.third{background-color: blue;}
+hr{height: 0px;
+border: 1 0 0 0 dotted;
+width: 2%;
+text-align: center;}
